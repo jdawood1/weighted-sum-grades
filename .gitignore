@@ -1,0 +1,23 @@
+## .gitignore (Python standard)
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# CSV data (optional: ignore if sensitive or large)
+# Python-HW-WeightedSums-Data.csv
